@@ -107,7 +107,7 @@ i18n:
   responseTimeWeek: "7 Tage Antwortzeit"
   responseTimeMonth: "30 Tage Antwortzeit"
   responseTimeYear: "1 Jahr Antwortzeit"
-  uptime: "∞ Antwortzeit"
+  uptime: "Verfügbarkeit"
   uptimeDay: "24 Std. Verfügbarkeit"
   uptimeWeek: "7 Tage Verfügbarkeit"
   uptimeMonth: "30 Tage Verfügbarkeit"
