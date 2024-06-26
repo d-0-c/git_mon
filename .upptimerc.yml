@@ -32,7 +32,6 @@ status-website:
 
 i18n:
   activeIncidents: aktuelle Vorfälle
-  allSystemsOperational: alle Systeme online
   incidentReport: "Vorfall #$NUMBER Bericht →"
   activeIncidentSummary: Geöffnet am $DATE mit $POSTS Beiträgen
   incidentTitle: Vorfall $NUMBER Details
