@@ -25,8 +25,8 @@ status-website:
   navbar:
     - title: Website Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+#    - title: GitHub
+#      href: https://github.com/$OWNER/$REPO
 
 i18n:
   activeIncidents: aktuelle Vorfälle
@@ -100,8 +100,3 @@ i18n:
   uptimeWeek: "7 Tage Verfügbarkeit"
   uptimeMonth: "30 Tage Verfügbarkeit"
   uptimeYear: "1 Jahr Verfügbarkeit"
-  liveStatusHtmlComment: "<!--live status-->"
-  allSystemsOperational: "🟩 Alle Systeme Verfügbar"
-  degradedPerformance: "🟨 Degradiert"
-  completeOutage: "🟥 kompletter Ausfall"
-  partialOutage: "🟧 partialer Ausfall"
