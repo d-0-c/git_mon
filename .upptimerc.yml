@@ -98,7 +98,6 @@ i18n:
   degraded: "🟨 Degradiert"
   down: "🟥 Offline"
   responseTimeGraphAlt: "Antwortzeit Graph"
-  ms: "ms"
   responseTimeDay: "24 Std. Antwortzeit"
   responseTimeWeek: "7 Tage Antwortzeit"
   responseTimeMonth: "30 Tage Antwortzeit"
