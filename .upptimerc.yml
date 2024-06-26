@@ -1,6 +1,6 @@
 # Change these first
-owner: d-0-c # Your GitHub organization or username, where this repository lives
-repo: git_mon # The name of this repository
+owner: d-0-c
+repo: git_mon
 
 sites:
   - name: wta-suhl.de
@@ -21,10 +21,8 @@ status-website:
   logoUrl: https://wta-suhl.de/wp-content/uploads/2016/03/WTA-Suhl_Logo.png
   name: Website Status
   robotsText: "User-agent: * \n Disallow: /"
-  # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  theme: dark
   navbar:
-    - theme: dark
     - title: Website Status
       href: /
     - title: GitHub
