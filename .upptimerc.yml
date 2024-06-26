@@ -21,7 +21,7 @@ status-website:
   logoUrl: https://wta-suhl.de/wp-content/uploads/2016/03/WTA-Suhl_Logo.png
   name: Website Status
   robotsText: "User-agent: * \n Disallow: /"
-  theme: dark
+  theme: night
   navbar:
     - title: Website Status
       href: /
