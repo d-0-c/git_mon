@@ -53,9 +53,6 @@ i18n:
   averageResponseTimeTitle: Durchschnittliche Antwortzeit
   sevelDayResponseTime: 7 Tage Antwortzeit
   responseTimeMs: Antwortzeit (ms)
-  up: online
-  down: offline
-  degraded: degradiert
   ms: ms
   loading: Läd
   navGitHub: GitHub
@@ -97,9 +94,9 @@ i18n:
   history: "Verlauf"
   responseTime: "Antwortzeit"
   uptime: "Verfügbarkeit"
-  up: "🟩 Up"
-  degraded: "🟨 Degraded"
-  down: "🟥 Down"
+  up: "🟩 Online"
+  degraded: "🟨 Degradiert"
+  down: "🟥 Offline"
   responseTimeGraphAlt: "Antwortzeit Graph"
   ms: "ms"
   responseTime: "Antwortzeit"
