@@ -1,7 +1,7 @@
 url: https://wta-suhl.de
-status: up
-code: 200
-responseTime: 1026
-lastUpdated: 2024-08-30T23:05:54.986Z
+status: down
+code: 503
+responseTime: 600
+lastUpdated: 2024-08-31T03:59:03.453Z
 startTime: 2024-06-26T22:15:52.409Z
 generator: Upptime <https://github.com/upptime/upptime>
