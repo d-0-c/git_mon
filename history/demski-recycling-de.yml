@@ -1,7 +1,7 @@
 url: https://demski-recycling.de
-status: up
-code: 200
-responseTime: 832
-lastUpdated: 2024-08-30T23:05:56.003Z
+status: down
+code: 503
+responseTime: 567
+lastUpdated: 2024-08-31T03:59:05.783Z
 startTime: 2024-06-26T22:15:53.685Z
 generator: Upptime <https://github.com/upptime/upptime>
