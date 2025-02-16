@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1454,
-    "timeDay": 2543,
-    "timeWeek": 2027,
-    "timeMonth": 2042,
+    "timeDay": 1477,
+    "timeWeek": 1979,
+    "timeMonth": 2027,
     "timeYear": 1454,
     "dailyMinutesDown": {
       "2024-08-31": 38
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1015,
-    "timeDay": 870,
-    "timeWeek": 1097,
-    "timeMonth": 1043,
-    "timeYear": 1015,
+    "time": 1014,
+    "timeDay": 891,
+    "timeWeek": 1101,
+    "timeMonth": 1042,
+    "timeYear": 1014,
     "dailyMinutesDown": {
       "2024-08-31": 38
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 964,
-    "timeDay": 778,
-    "timeWeek": 973,
-    "timeMonth": 974,
-    "timeYear": 964,
+    "time": 963,
+    "timeDay": 844,
+    "timeWeek": 980,
+    "timeMonth": 976,
+    "timeYear": 963,
     "dailyMinutesDown": {
       "2024-08-31": 38
     }
@@ -66,17 +66,16 @@
     "slug": "einfach-verantwortungsvoll-de",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1021,
-    "timeDay": 1009,
-    "timeWeek": 1063,
-    "timeMonth": 1039,
-    "timeYear": 1021,
+    "time": 1020,
+    "timeDay": 936,
+    "timeWeek": 1056,
+    "timeMonth": 1038,
+    "timeYear": 1020,
     "dailyMinutesDown": {
-      "2025-02-15": 6,
       "2024-08-31": 38
     }
   },
@@ -91,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1022,
-    "timeDay": 882,
-    "timeWeek": 1063,
-    "timeMonth": 1049,
-    "timeYear": 1022,
+    "time": 1021,
+    "timeDay": 783,
+    "timeWeek": 1054,
+    "timeMonth": 1041,
+    "timeYear": 1021,
     "dailyMinutesDown": {
       "2024-08-31": 38
     }
@@ -111,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1009,
+    "time": 1008,
     "timeDay": 883,
-    "timeWeek": 1035,
+    "timeWeek": 1038,
     "timeMonth": 1020,
-    "timeYear": 1009,
+    "timeYear": 1008,
     "dailyMinutesDown": {
       "2024-08-31": 38
     }
