@@ -84,9 +84,9 @@
     "url": "https://mygreentoner.de",
     "icon": "https://icons.duckduckgo.com/ip3/mygreentoner.de.ico",
     "slug": "mygreentoner-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -96,6 +96,7 @@
     "timeMonth": 1006,
     "timeYear": 1020,
     "dailyMinutesDown": {
+      "2025-03-15": 0,
       "2024-08-31": 38
     }
   },
