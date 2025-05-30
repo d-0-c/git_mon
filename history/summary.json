@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1626,
-    "timeDay": 1816,
-    "timeWeek": 1983,
-    "timeMonth": 1894,
+    "timeDay": 1612,
+    "timeWeek": 1900,
+    "timeMonth": 1893,
     "timeYear": 1626,
     "dailyMinutesDown": {
       "2024-08-31": 38
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1045,
-    "timeDay": 1065,
-    "timeWeek": 1213,
-    "timeMonth": 1103,
+    "timeDay": 856,
+    "timeWeek": 1140,
+    "timeMonth": 1099,
     "timeYear": 1045,
     "dailyMinutesDown": {
       "2024-08-31": 38
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 971,
-    "timeDay": 870,
-    "timeWeek": 1067,
-    "timeMonth": 998,
-    "timeYear": 971,
+    "time": 970,
+    "timeDay": 764,
+    "timeWeek": 1002,
+    "timeMonth": 997,
+    "timeYear": 970,
     "dailyMinutesDown": {
       "2024-08-31": 38
     }
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1032,
-    "timeDay": 953,
-    "timeWeek": 1138,
-    "timeMonth": 1084,
+    "timeDay": 857,
+    "timeWeek": 1064,
+    "timeMonth": 1080,
     "timeYear": 1032,
     "dailyMinutesDown": {
       "2024-08-31": 38
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1033,
-    "timeDay": 1032,
-    "timeWeek": 1165,
-    "timeMonth": 1091,
-    "timeYear": 1033,
+    "time": 1032,
+    "timeDay": 835,
+    "timeWeek": 1073,
+    "timeMonth": 1084,
+    "timeYear": 1032,
     "dailyMinutesDown": {
       "2024-08-31": 38
     }
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 952,
-    "timeDay": 579,
-    "timeWeek": 623,
-    "timeMonth": 592,
-    "timeYear": 952,
+    "time": 950,
+    "timeDay": 505,
+    "timeWeek": 593,
+    "timeMonth": 590,
+    "timeYear": 950,
     "dailyMinutesDown": {
       "2024-08-31": 38
     }
